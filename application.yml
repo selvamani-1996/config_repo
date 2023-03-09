@@ -1,5 +1,5 @@
 spring:
    application:
-    name: OMBS-POC
+    name: OMBS-POC-Test
 server:
   port: 8082
